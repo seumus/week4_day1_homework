@@ -1,0 +1,13 @@
+body{
+  background-color: lightblue;
+}
+
+h1{
+  font-style: italic;
+  font-size: 5em;
+}
+nav ul li {
+  display: inline;
+  text-decoration: none;
+  text-align: center;
+}
